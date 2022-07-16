@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>Posttest 10</title>
+        <title>Tugas PHP dan MySQL</title>
         <link rel="preconnect" href="https://fonts.gstatic.com">
         <link href="https://fonts.googleapis.com/css2?family=Fira+Mono:wght@400:700&family=Montserrat+Alternates:wght@600display=swap" rel="stylesheet">
         <script src="script.js"></script>
